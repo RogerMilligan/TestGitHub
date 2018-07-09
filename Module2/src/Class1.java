@@ -1,4 +1,4 @@
 public class Class1 {
 
-    // MyClass
+    // MyClass . 2
 }
